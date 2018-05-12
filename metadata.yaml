@@ -1,5 +1,8 @@
 _repo: My-Lady-of-the-North_6846
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Parrish, Randall
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '2217'
     url: http://www.gutenberg.org/2009/agents/2217
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6846#My-Lady-of-the-North
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
